@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=zzgOYl3nVg0
+# https://www.youtube.com/watch?v=zzgOYl3nVg0
 # Software install Script
 #
 # Applications to install:
